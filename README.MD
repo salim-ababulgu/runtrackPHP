@@ -1,6 +1,6 @@
 # Projet PHP
 
-Ce projet est une déécouverte de PHP
+Ce projet est une découverte de PHP
 Ce projet contient des fichiers PHP qui réalisent différentes tâches selon les spécifications fournies.
 
 ![Logo](https://www.php.net/images/logos/php-logo.svg)
@@ -12,72 +12,6 @@ Ce projet contient des fichiers PHP qui réalisent différentes tâches selon le
 
 ## Contenu
 
-Le projet est divisé en différentes parties, chaque partie correspondant à un "Job" spécifique, tel que défini dans les spécifications.
-
-- **Job 01**: Création de variables et affichage de leur contenu.
-- **Job 02**: Affichage de "Hello all !" deux fois avec des commentaires différents.
-- **Job 03**: Génération d'un tableau HTML avec des informations sur différentes variables PHP.
-- **Job 04**: Affichage des nombres de 0 à 1337 avec mise en forme spécifique pour le nombre 42.
-- **Job 05**: Affichage des nombres de 0 à 1337 en excluant certains nombres.
-- **Job 06**: Affichage des nombres de 0 à 100 avec des styles spécifiques.
-- **Job 07**: Affichage de nombres de 1 à 100 avec des règles de FizzBuzz.
-- **Job 09**: Création d'une fonction pour afficher un message de salutation.
-- **Job 10**: Création d'une fonction pour afficher "Bonjour" ou "Bonsoir" en fonction d'un booléen.
-- **Job 11**: Création d'une fonction pour retourner un message de salutation.
-- **Job 12**: Création d'une fonction pour effectuer des opérations arithmétiques.
-- **Job 13**: Création d'une fonction pour compter le nombre d'occurrences d'un caractère dans une chaîne.
-- **Job 14**: Création d'une fonction pour convertir une chaîne en leet speak.
-- **Job 15**: Création d'un formulaire pour appliquer des transformations à une chaîne de caractères.
-
-## Utilisation
-
-1. Cloner ce dépôt sur votre machine locale.
-2. Assurez-vous que vous avez un serveur web local avec PHP installé.
-3. Placez les fichiers dans le répertoire racine de votre serveur web.
-4. Accédez au fichier index.php via votre navigateur web pour voir les résultats des différentes tâches.
-
+Le projet est réalisées sur une durée de cinq jours. Qui sont divisé en différentes parties, chaque partie correspondant à un "Job" spécifique, tel que défini dans les spécifications.
 
 ![Logo](./images/php-presentation.png)
-
-
-
-
-## Demo
-
-Insert gif or link to demo
-
-# Projet PHP
-
-Ce projet est une déécouverte de PHP
-Ce projet contient des fichiers PHP qui réalisent différentes tâches selon les spécifications fournies.
-
-![Logo](https://www.php.net/images/logos/php-logo.svg)
-
-## Structure du Projet
-
-- **index.php**: Fichier principal du projet qui contient plusieurs scripts PHP pour répondre aux différentes tâches demandées.
-- **README.md**: Ce fichier. Il fournit des informations sur le projet, son contenu et son utilisation.
-
-## Contenu
-
-Le projet est divisé en différentes parties, chaque partie correspondant à un "Job" spécifique, tel que défini dans les spécifications.
-
-- **Job 01**: Création de variables et affichage de leur contenu.
-- **Job 02**: Affichage de "Hello all !" deux fois avec des commentaires différents.
-- **Job 03**: Génération d'un tableau HTML avec des informations sur différentes variables PHP.
-- **Job 04**: Affichage des nombres de 0 à 1337 avec mise en forme spécifique pour le nombre 42.
-- **Job 05**: Affichage des nombres de 0 à 1337 en excluant certains nombres.
-- **Job 06**: Affichage des nombres de 0 à 100 avec des styles spécifiques.
-- **Job 07**: Affichage de nombres de 1 à 100 avec des règles de FizzBuzz.
-- **Job 09**: Création d'une fonction pour afficher un message de salutation.
-- **Job 10**: Création d'une fonction pour afficher "Bonjour" ou "Bonsoir" en fonction d'un booléen.
-- **Job 11**: Création d'une fonction pour retourner un message de salutation.
-- **Job 12**: Création d'une fonction pour effectuer des opérations arithmétiques.
-- **Job 13**: Création d'une fonction pour compter le nombre d'occurrences d'un caractère dans une chaîne.
-- **Job 14**: Création d'une fonction pour convertir une chaîne en leet speak.
-- **Job 15**: Création d'un formulaire pour appliquer des transformations à une chaîne de caractères.
-
-
-![Logo](./images/php-presentation.png)
-
-
