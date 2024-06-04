@@ -1,59 +1,49 @@
-<!-- Affichage d'une variable "php" -->
-
-<h3>Affichage d'une variable "php"</h3>
 <?php
-    $variable = "LaPlateforme_";
+// Déclaration de la première variable contenant la chaîne "LaPlateforme"
+$platform = "LaPlateforme";
 
-    echo $variable;
-?>
+// Affichage du contenu de la variable
+echo $platform . "<br>";
 
-<br>
-<br>
+// Déclaration de deux autres variables contenant des chaînes de caractères
+$greeting = "Vive";
+$punctuation = "!";
 
-<!-- Concatenation d'une variable "php" -->
-<h3>Concatenation d'une variable "php"</h3>
-<?php
-    $variable = " LaPlateforme_ ";
-    $variableDeux = "Vive ";
-    $variableTrois = "!";
+// Affichage de la concaténation des variables
+echo $greeting . " " . $platform . " " . $punctuation . "<br>";
 
-    $concatenation = $variableDeux . $variable . $variableTrois;
+// Création d'une variable contenant le chiffre 6
+$number = 6;
 
-    echo $concatenation;
-?>
+// Affichage du contenu de la variable
+echo $number . "<br>";
 
-<br>
-<br>
+// Ajout de 4 à la variable et affichage du nouveau contenu
+$number += 4;
+echo $number . "<br>";
 
-<!-- Number en "php" -->
-<h3>Les nombres en "php"</h3>
-<?php
-    $nombre = 6;
+// Création d'une dernière variable et affectation de la valeur "true"
+$isTrue = true;
 
-    echo $nombre;
-?>
+// Affichage du contenu de la variable
+echo $isTrue . "<br>";
 
-<br>
-<br>
-
-<!-- Addition d'une variable "php" -->
-<h3>Addition d'une variable "php"</h3>
-<?php
-    $nombre = 6;
-    $nombreAjoutee = 4;
-
-    $addition = $nombre + $nombreAjoutee;
-
-    echo $addition;
+// Changement de la valeur de la variable à "false" et réaffichage
+$isTrue = false;
+echo $isTrue . "<br>";
 ?>
 
 
-<br>
-<br>
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirection entre les pagese</title>
+</head>
+<body>
 
-<?php
-// Affecter "false" à la variable et afficher à nouveau le contenu
-$boolean = false;
-echo $boolean . "<br>"; // N'affichera rien car false est converti en chaîne vide en PHP
-?>
+    <!-- Bouton pour la page suivante -->
+    <a href="../job02/index.php">Page suivante</a>
+</body>
+</html>
