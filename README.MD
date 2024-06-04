@@ -14,3 +14,6 @@ Le projet est réalisées sur une durée de cinq jours. Qui sont divisé en diff
 - **index.php**: Fichier principal qui contient les différentes exercice des différentes job demandée.
 
 ![Logo](./images/php-presentation.png)
+
+## 🔗 Links
+[![linkedin](https://www.linkedin.com/in/salim-ababulgu/)](https://www.linkedin.com/)
